@@ -88,7 +88,10 @@ input:focus {
 }
 /* logo */
 .logo {
-
+  text-transform: uppercase;
+  color: #CC0000;
+  font-size: 2em;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 .logo-img {
 
