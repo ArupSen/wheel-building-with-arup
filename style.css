@@ -30,7 +30,7 @@ html {
 	font-size:62.5%;
 }
 body {
-	font:300 11px/1.4 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font:300 11px/1.4 'Lato', Helvetica, Arial, sans-serif;
 	color:#444;
 }
 /* clear */
@@ -91,7 +91,7 @@ input:focus {
   text-transform: uppercase;
   color: #CC0000;
   font-size: 2em;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: 'Lora', serif;
 }
 .logo-img {
 
@@ -135,6 +135,10 @@ input:focus {
     font-weight:normal;
     font-style:normal;
 }
+/* Google fonts embedded in header.php*/
+/* font-family: 'Lora', serif;
+ * font-fmaily: 'Lato', sans-serif;
+ * first one for headings, the other for body copy*/
 
 /*------------------------------------*\
     RESPONSIVE
